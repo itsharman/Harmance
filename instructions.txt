@@ -1,0 +1,10 @@
+//execute to give new PHP file permissions
+chmod 600 file
+
+//non-PHP file
+chmod 644 file
+
+//directory
+chmod 711 directory
+
+use dump fxn for debugging
